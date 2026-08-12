@@ -1,0 +1,5 @@
+there are two ways in which you can change the style or css of a webpage:
+
+1.Direct method- open the console and check the properties of the text that you want to change and write the javascript code to change that property accordingly.
+
+2.Creating a class- create a class in your html file that contains all the modifications that you want to make to your webpage's element. Apply that class to the element in the js file.
